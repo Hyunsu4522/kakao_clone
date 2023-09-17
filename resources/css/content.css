@@ -167,9 +167,10 @@ header .gnb .uill li img{
     box-sizing: border-box;
     padding: 10rem 1.14285714rem 2.85714286rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     flex-direction: column;
+    height: calc(100vh - 60px);
 }
 .main-contens .area_intro img {
     max-width: 100%;
