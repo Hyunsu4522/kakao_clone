@@ -214,6 +214,9 @@ header .gnb .uill li img{
     .download-wrap div:not(:last-child),  .download-wrap > div:before {
         display: none;
     }
+    .main-contens .area_intro{
+        height: auto;
+    }
     .main-contens .area_intro p{
         font-size: 22px;
         line-height: 1.45;
